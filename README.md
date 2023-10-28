@@ -7,4 +7,8 @@
 - v5 - streams
   - stream operations
   - intermediate stream operations
+- v6 - Terminal operators
+  - simple terminal operators
+  - shortcut terminal operators
+  - collector terminal operators
 
